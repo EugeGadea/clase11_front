@@ -1,0 +1,36 @@
+
+header {
+    position: relative;
+    background-color: #222222;
+    width: cover;
+    height: 100px;
+    color: white;
+}
+
+BODY {
+    background-color: #F3F3F3;
+}
+
+main {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+main .card2 {
+    background-color: #FFFFFF;
+    width: 491px;
+    height: 350px;
+}
+
+
+footer {
+    display: flex;  
+    height: 160px;
+    background-color: #222222;
+    color: white;
+}
+
+footer .logofoot {
+    padding-right: 10px; 
+    float: right;
+}
